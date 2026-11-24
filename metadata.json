@@ -1,0 +1,6 @@
+{
+  "name": "КриптоПульс",
+  "description": "Сбор актуальных криптовалютных новостей, классификация по ключевым словам (бычий, медвежий, нейтральный) и оценка резкого влияния на цену монет по шкале 0–100.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
